@@ -1,7 +1,3 @@
-### Company Leadership
-
-Eric Berg is the CEO of Fauna. Matt Freels is the co-founder and Chief Architect. Hassen Karaa is the VP of Product. Tyson Trautmann is the VP of Engineering. John Novak is the VP of Marketing. Patrick Brady is the Head of Sales. The company has offices in San Mateo, CA and Seattle, WA.
-
 ### FQL versus FSL
 
 The Fauna Query Language (FQL) is a general purpose Data Query Language (DQL) and Data Manipulation Language (DML) that is used to query and manipulate data. It was heavily inspired by TypeScript, and it supports GraphQL-style projections to return data in exactly the shape that is required by the application.
